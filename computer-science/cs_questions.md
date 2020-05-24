@@ -4,6 +4,7 @@
 - [OPERATING SYSTEM](#operating-system)
 - [DATABASE](#database)
 - [SECURITY](#security)
+- [SYSTEM DESIGN](#system-design)
 
 ## NETWORKING
 
@@ -207,3 +208,13 @@
 3. How to store credential information efficiency? (user password, config key, database credential, user information, secret key,.... )
 
 4. Describe a way to defense DDOS? (actually, there are many kinds of DDOS not just network or memory, so this question is pretty complicated)
+
+## SYSTEM DESIGN
+
+1. Load Balancing.
+2. Caching.
+3. Redundancy and Replication.
+4. Peer to peer network.
+5. Proxies.
+    -   Reverse proxies.
+6. Rate limiting
